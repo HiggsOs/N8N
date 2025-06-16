@@ -1,7 +1,7 @@
 # N8N
 Contenedor de n8n Actualizable sin perder la data.
 
-#Proceso de actualizacion.
+# Proceso de actualizacion.
 Descargar la nueva imagen:
 
 
